@@ -9,7 +9,6 @@ We gathered datasets from a number of open access sources:
   -Homo Sapiens
 
 -UniProt Reference proteome UP000005640 (https://www.uniprot.org/proteomes/UP000005640)
-  
   -One sequence per gene
 
 -MuSite April 2021 release (https://www.musite.net/)
